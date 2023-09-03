@@ -4,7 +4,7 @@ Download app:
 - iOS: https://apps.apple.com/app/ye-said/id6463562198
 - Android: https://play.google.com/store/apps/details?id=com.bpstudios.yesaid
 - 
-<img src="./preview.jpg" width="350" title="hover text">
+<img src="./widget-preview.jpg" width="350" title="hover text">
 
 This is an expo project ejected to run in Xcode.
 
