@@ -1,6 +1,6 @@
 <em>Aron Visser, August 2023</em>
 
-Kanye West quotes! Name one genius that ain't crazy...
+<b>Kanye West quotes! Name one genius that ain't crazy...</b>
 
 <img src="./widget-preview.jpg" width="512" title="hover text">
 
