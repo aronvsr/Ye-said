@@ -14,4 +14,6 @@ The widgets are in the 'widgets' folder, written in swift. (iOS only)
 
 I can't upload the entire project since there is confindental information in the files, such as apple developer IDs and more.
 
+View the quotes, and corresponding php script to fetch them, in the 'server-side' folder.
+
 Feel free to contribute! (Touch up main App.js, make widgets for Watch the Throne and Kids See Ghosts, other fixes.)
