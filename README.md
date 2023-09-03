@@ -1,5 +1,7 @@
 By Aron Visser, August 2023
 
+Kanye West quotes! Name one genius that ain't crazy...
+
 <img src="./widget-preview.jpg" width="512" title="hover text">
 
 Download app:
