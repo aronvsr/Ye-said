@@ -4,7 +4,7 @@ Download app:
 - iOS: https://apps.apple.com/app/ye-said/id6463562198
 - Android: https://play.google.com/store/apps/details?id=com.bpstudios.yesaid
 
-![widget preview][(https://preview.redd.it/lktmom7uuxlb1.jpg?width=2048&format=pjpg&auto=webp&s=e5753f7de467c7b761ff267a9b45bb3f268f01ee)]
+![widget preview](https://preview.redd.it/lktmom7uuxlb1.jpg?width=2048&format=pjpg&auto=webp&s=e5753f7de467c7b761ff267a9b45bb3f268f01ee)
 
 This is an expo project ejected to run in Xcode.
 
