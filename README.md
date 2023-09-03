@@ -1,4 +1,4 @@
-By Aron Visser, August 2023
+<i>By Aron Visser, August 2023</i>
 
 Kanye West quotes! Name one genius that ain't crazy...
 
