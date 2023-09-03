@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Ye said",
+    "slug": "ye-said",
+    "version": "1.3.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#F78C58"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "<My iOS bundle identifier>",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "<My Android bundle identifier>",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      ["./app.plugin", { "devTeamId": "<CONFIDENTAL>" }]
+    ]
+  }
+}
