@@ -1,4 +1,4 @@
-// By Aron Visser, August 2023
+By Aron Visser, August 2023
 
 Download app:
 - iOS: https://apps.apple.com/app/ye-said/id6463562198
