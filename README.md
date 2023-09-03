@@ -1,4 +1,4 @@
-<b>Kanye West quotes! Name one genius that ain't crazy...</b>
+<b>Kanye West quotes! "Name one genius that ain't crazy..."</b>
 
 <img src="./widget-preview.jpg" width="512" title="hover text">
 
@@ -18,7 +18,7 @@ I can't upload the entire project since there is confindental information in the
 
 View the quotes, and corresponding php script to fetch them, in the 'server-side' folder.
 
-Feel free to contribute! (Touch up main App.js, make widgets for Watch the Throne and Kids See Ghosts, other fixes.)
+Feel free to contribute! (Touch up main App.js, Android widgets, Watch the Throne and Kids See Ghosts, etc.)
 
 <em>Aron Visser, 2023</em>
 
