@@ -18,7 +18,7 @@ I can't upload the entire project since there is confindental information in the
 
 View the quotes, and corresponding php script to fetch them, in the 'server-side' folder.
 
-Feel free to contribute! (Touch up main App.js, Android widgets, Watch the Throne and Kids See Ghosts, etc.)
+Feel free to contribute! (Touch up main App.js, Android widgets, etc.)
 
 <em>Aron Visser, 2023</em>
 
