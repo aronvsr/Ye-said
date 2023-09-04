@@ -1,6 +1,6 @@
 <b>Kanye West quotes! "Name one genius that ain't crazy..."</b>
 
-<img src="./widget-preview.jpg" width="512" title="hover text">
+<img src="./widget-preview.jpg" width="768" title="hover text">
 
 Download app:
 - iOS: https://apps.apple.com/app/ye-said/id6463562198
