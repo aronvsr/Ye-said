@@ -8,19 +8,26 @@ Donda
 Jesus is King
 - Background color: #0D15A6
 - Font color: #FFE000
-- Background png: Yes
-<img src="./images/jesus-widget.png" width="180" title="hover text">
+- Background png: 
+<img src="./images/jesus-widget@3x.png" width="180" title="hover text">
+
+
 
 Kids See Ghost
 - Background color: #F26B83
 - Font color: #000000
-- Background png: Yes
-<img src="./images/ksg-widget.png" width="180" title="hover text">
+- Background png: 
+<img src="./images/ksg-widget@3x.png" width="180" title="hover text">
+
+
 
 Ye
 - Background color: #496383
 - Font color: #5AF397
-- Background png: Yes
+- Background png:
+<img src="./images/ye-widget@3x.png" width="180" title="hover text">
+
+
 
 The Life of Pablo
 - Background color: #F78C58
@@ -30,22 +37,34 @@ The Life of Pablo
 Yeezus
 - Background color: #BDD2CF
 - Font color: #271D1D
-- Background png: Yes
+- Background png:
+<img src="./images/yeezus-widget@3x.png" width="180" title="hover text">
+
+
 
 Watch the Throne
 - Background color: #D4AF37
 - Font color: #392900
-- Background png: Yes
+- Background png:
+<img src="./images/wtt-widget@3x.png" width="180" title="hover text">
+
+
 
 My Beautiful Dark Twisted Fantasy
 - Background color: #E40337
 - Font color: #F2F800
-- Background png: Yes
+- Background png:
+<img src="./images/mbdtf-widget@3x.png" width="180" title="hover text">
+
+
 
 808s & Heartbreak
 - Background color: #C2CECE
 - Font color: #000000
-- Background png: Yes
+- Background png:
+<img src="./images/808-widget@3x.png" width="180" title="hover text">
+
+
 
 Graduation
 - Background color: #B25186
@@ -55,9 +74,13 @@ Graduation
 Late Registration
 - Background color: #633119
 - Font color: #C3AB14
-- Background png: Yes
+- Background png:
+<img src="./images/lr-widget@3x.png" width="180" title="hover text">
 
 The College Dropout
 - Background color: #C36115
 - Font color: #000000
-- Background png: Yes
+- Background png:
+<img src="./images/college-widget@3x.png" width="180" title="hover text">
+
+
