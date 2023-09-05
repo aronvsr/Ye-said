@@ -1,5 +1,5 @@
-<h1>JavaScript/Swift Mobile App and Widgets for Kanye West quotes!</h1>
-<h2>"Name one genius that ain't crazy..."</h2>
+<h2>JavaScript/Swift Mobile App and Widgets for Kanye West quotes!</h2>
+<h3>"Name one genius that ain't crazy..."</h3>
 
 <img src="./widget-preview-all.jpg" width="768" title="hover text">
 
