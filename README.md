@@ -1,4 +1,5 @@
-<b>Kanye West quotes! "Name one genius that ain't crazy..."</b>
+<h1>JavaScript/Swift Mobile App and Widgets for Kanye West quotes!</h1>
+<h2>"Name one genius that ain't crazy..."</h2>
 
 <img src="./widget-preview-all.jpg" width="768" title="hover text">
 
