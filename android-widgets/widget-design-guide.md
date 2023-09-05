@@ -9,11 +9,13 @@ Jesus is King
 - Background color: #0D15A6
 - Font color: #FFE000
 - Background png: Yes
+<img src=".images/jesus-widget.png" width="180" title="hover text">
 
 Kids See Ghost
 - Background color: #F26B83
 - Font color: #000000
 - Background png: Yes
+<img src=".images/ksg-widget.png" width="180" title="hover text">
 
 Ye
 - Background color: #496383
