@@ -1,4 +1,4 @@
-<h1>Widget design guide:</h1>
+<h2>Widget design guide:</h2>
 
 Donda
 - Background color: #000000 (obviously)
@@ -68,5 +68,3 @@ The College Dropout
 - Font color: #000000
 - Background png:
 <img src="./images/college-widget@3x.png" width="180" title="College Graphic">
-
-
