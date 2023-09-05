@@ -75,7 +75,7 @@ Late Registration
 - Background color: #633119
 - Font color: #C3AB14
 - Background png:
-<img src="./images/lr-widget@3x.png" width="180" title="hover text">
+<img src="./images/late-widget@3x.png" width="180" title="hover text">
 
 The College Dropout
 - Background color: #C36115
