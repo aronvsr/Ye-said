@@ -9,17 +9,15 @@ Download app:
 
 This is an expo project ejected to run in Xcode.
 
-Each widget is an individual extension (which is necesarry to have individual widget titles and descriptions).
+Each iOS widget is an individual extension (which is necesarry to have individual widget titles and descriptions). The iOS widget files can be found <a href="./ios-widgets">here</a>.
 
-The main app is written with JavaScript in App.js. Run in an React Native Expo environment to test. (Android and iOS)
+The main app is written with JavaScript in App.js. Run in an React Native Expo environment (or any environment that would support App.js) to test. (Android and iOS)
 
-The widgets are in the 'widgets' folder, written in swift. (iOS only)
+View the quotes, and corresponding php script to fetch them, <a href="./server-side">here</a>.
 
 I can't upload the entire project since there is confindental information in the files, such as apple developer IDs and more.
 
-View the quotes, and corresponding php script to fetch them, in the 'server-side' folder.
-
-Feel free to contribute! (Touch up main App.js, Android widgets, etc.)
+Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here!</a>
 
 <em>Aron Visser, 2023</em>
 
