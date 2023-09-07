@@ -19,5 +19,8 @@ I can't upload the entire project since there is confindental information in the
 
 Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here!</a>
 
-
-<img src="./images/main.jpg" width="256" title="Main app">
+<p float="left">
+  <img src="./images/main.jpg" width="256" title="Main app">
+  <img src="./images/wid.jpg" width="256" title="1/2 widgets">
+  <img src="./images/gets.jpg" width="256" title="2/2 widgets">
+</p>
