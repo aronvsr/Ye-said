@@ -15,9 +15,7 @@ The main app is written with JavaScript in App.js. Run in an React Native Expo e
 View the quotes, and corresponding php script to fetch them, <a href="./server-side">here</a>.
 
 <h3>More</h3>
-Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here</a>.
-
-Meanwhile peep these preview images:
+Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here</a>. Meanwhile peep these preview images:
 <p float="left">
   <img src="./images/main.jpg" width="256" title="Main app">
   <img src="./images/wid.jpg" width="256" title="1/2 widgets">
