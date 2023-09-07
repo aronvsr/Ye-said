@@ -18,7 +18,8 @@ View the quotes, and corresponding php script to fetch them, <a href="./server-s
 <h3>More</h3>
 Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here!</a>
 
-Take a look:
+
+Meanwhile peep these preview images:
 
 <p float="left">
   <img src="./images/main.jpg" width="256" title="Main app">
