@@ -1,7 +1,7 @@
 <h2>React Native App and Swift Widgets for Kanye West quotes!</h2>
 <h3>"Name one genius that ain't crazy..."</h3>
 
-<img src="./widget-preview-all.jpg" width="768" title="hover text">
+<img src="./images/widget-preview-all.jpg" width="768" title="Widgets preview">
 
 Download app:
 - iOS: https://apps.apple.com/app/ye-said/id6463562198
@@ -18,3 +18,6 @@ View the quotes, and corresponding php script to fetch them, <a href="./server-s
 I can't upload the entire project since there is confindental information in the files, such as apple developer IDs and more.
 
 Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here!</a>
+
+Does it not look cool as hell? 
+<img src="./images/homescreen.jpg" width="512" title="My homescreen">
