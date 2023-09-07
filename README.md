@@ -4,7 +4,7 @@
 <img src="./images/widget-preview-all.jpg" width="768" title="Widgets preview">
 
 <h3>Download now!</h3>
-- iOS: https://apps.apple.com/app/ye-said/id6463562198
+- iOS/macOS: https://apps.apple.com/app/ye-said/id6463562198
 - Android: https://play.google.com/store/apps/details?id=com.bpstudios.yesaid
 
 <h3>App</h3>
@@ -18,8 +18,8 @@ View the quotes, and corresponding php script to fetch them, <a href="./server-s
 <h3>More</h3>
 Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here</a>.
 
-Meanwhile peep these preview images:
 
+Meanwhile peep these preview images:
 <p float="left">
   <img src="./images/main.jpg" width="256" title="Main app">
   <img src="./images/wid.jpg" width="256" title="1/2 widgets">
