@@ -1,5 +1,5 @@
 <h2>React Native App and Swift Widgets for Kanye West quotes!</h2>
-<h3>"Name one genius that ain't crazy..."</h3>
+<h4>"Name one genius that ain't crazy..."</h4>
 
 <img src="./images/widget-preview-all.jpg" width="768" title="Widgets preview">
 
