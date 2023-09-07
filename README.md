@@ -20,4 +20,4 @@ I can't upload the entire project since there is confindental information in the
 Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here!</a>
 
 Does it not look cool as hell? 
-<img src="./images/homescreen.jpg" width="512" title="My homescreen">
+<img src="./images/homescreen.jpeg" width="512" title="My homescreen">
