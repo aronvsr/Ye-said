@@ -24,3 +24,7 @@ Meanwhile peep these preview images:
   <img src="./images/wid.jpg" width="256" title="1/2 widgets">
   <img src="./images/gets.jpg" width="256" title="2/2 widgets">
 </p>
+
+PS: Donda is underrated, you just have to customize your preferred version, here's mine:
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7KQoHy2BMNRuy9SfLKrsb6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
