@@ -4,7 +4,7 @@
 
 > "Name one genius that ain't crazy..."
 
-Download links:
+Download now!
 - <a href="https://apps.apple.com/app/ye-said/id6463562198">iOS/macOS</a>
 - <a href="https://play.google.com/store/apps/details?id=com.bpstudios.yesaid">Android</a>
 
