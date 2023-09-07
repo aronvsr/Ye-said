@@ -18,6 +18,3 @@ View the quotes, and corresponding php script to fetch them, <a href="./server-s
 I can't upload the entire project since there is confindental information in the files, such as apple developer IDs and more.
 
 Feel free to contribute! I wrote instructions for the widget design <a href="./android-widgets/README.md">here!</a>
-
-Does it not look cool as hell? 
-<img src="./images/homescreen.jpeg" width="512" title="My homescreen">
