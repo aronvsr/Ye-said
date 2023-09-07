@@ -3,7 +3,7 @@
 
 <img src="./images/widget-preview-all.jpg" width="768" title="Widgets preview">
 
-Download app:
+<h3>Download now!</h3>
 - iOS: https://apps.apple.com/app/ye-said/id6463562198
 - Android: https://play.google.com/store/apps/details?id=com.bpstudios.yesaid
 
