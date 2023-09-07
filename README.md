@@ -4,9 +4,8 @@
 
 > "Name one genius that ain't crazy..."
 
-Download now!
-- <a href="https://apps.apple.com/app/ye-said/id6463562198">iOS/macOS</a>
-- <a href="https://play.google.com/store/apps/details?id=com.bpstudios.yesaid">Android</a>
+- <a href="https://apps.apple.com/app/ye-said/id6463562198">App Store</a>
+- <a href="https://play.google.com/store/apps/details?id=com.bpstudios.yesaid">Google Play Store</a>
 
 <h3>App & Widgets</h3>
 This is an expo project ejected to be managed in Xcode. A flutter project is under construction. Each iOS widget is an individual extension (which is necesarry to have individual widget titles and descriptions). The iOS widget files can be found <a href="./ios-widgets">here</a>.
