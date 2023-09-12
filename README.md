@@ -8,7 +8,7 @@
 - <a href="https://play.google.com/store/apps/details?id=com.bpstudios.yesaid">Google Play Store (±100 downloads)</a>
 
 <h3>App & Widgets</h3>
-This is an expo project ejected to be managed in Xcode. A flutter project is under construction. Each iOS widget is an individual extension (which is necesarry to have individual widget titles and descriptions). The iOS widget files can be found <a href="./ios-widgets">here</a>.
+This is an expo project ejected to be managed in Xcode. A flutter project is under construction. Each iOS widget is an individual extension (which is necesarry to have individual widget titles and descriptions). The iOS widget files can be found <a href="./ios-widgets">here</a>. Android widgets are under development and coming soon!
 
 The main app is written with JavaScript in App.js. Run in an React Native Expo environment (or any environment that would support App.js) to test. (Android and iOS) I can't upload the entire project since there is confindental information in the files, such as apple developer IDs and more.
 
