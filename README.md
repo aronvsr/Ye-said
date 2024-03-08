@@ -20,7 +20,7 @@ View the quotes, and corresponding php script to fetch them, <a href="./server-s
 <h3>More</h3>
 I raised the price to 1$, as the increased amount of users came with some more costs.
 
-Meanwhile peep these preview images:
+Nuff said, peep these preview images:
 <p float="left">
   <img src="./images/main.jpg" width="256" title="Main app">
   <img src="./images/wid.jpg" width="256" title="1/2 widgets">
